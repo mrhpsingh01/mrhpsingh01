@@ -9,6 +9,13 @@
 </div>
 
 ---
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/mrhpsingh01/mrhpsingh01/raw/main/resume/Harmanpreet_Singh_resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harmanuga/)
+
+</div>
+---
 
 ## 🚀 About Me
 
@@ -207,6 +214,7 @@ Full-stack property management platform with:
 * 📧 Email: [harman.singh@uga.edu](mailto:harman.singh@uga.edu)
 * 💼 LinkedIn: [www.linkedin.com/in/harmanuga](http://www.linkedin.com/in/harmanuga)
 * 🌐 GitHub: [https://github.com/mrhpsingh01](https://github.com/mrhpsingh01)
+* 📄 Resume : [Harmanpreet_Singh_resume.pdf](https://github.com/mrhpsingh01/mrhpsingh01/raw/main/resume/Harmanpreet_Singh_resume.pdf)
 
 ---
 

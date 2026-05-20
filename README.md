@@ -1,54 +1,229 @@
 # Hi, I'm Harmanpreet Singh 👋
 
-🎓 MS in Computer Science @ University of Georgia  
-💻 Machine Learning & Full-Stack Developer  
-🧠 Researching Multimodal Self-Supervised Learning for Human Activity Recognition
+<div align="center">
+
+### MS Computer Science Thesis @ University of Georgia
+
+### Machine Learning Engineer • Full-Stack Developer • Distributed Systems Enthusiast
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-- Languages: Python, JavaScript, Java, C
-- ML/AI: PyTorch, Transformers, TensorFlow, NLP
-- Frontend: React, Vue.js, Nuxt.js
-- Backend: Node.js, Express
-- Databases: MongoDB, MySQL
-- Tools: Git, Linux, VS Code
+I'm a graduate Computer Science student at the **University of Georgia** focused on building intelligent, scalable, and production-ready systems.
+
+My work spans across:
+
+* 🧠 Machine Learning & Self-Supervised Learning
+* 🤖 Multimodal AI Systems
+* 🌐 Full-Stack Web Development
+* ⚡ Distributed Systems & Networking
+* 📊 Human Activity Recognition (HAR)
+* 🔍 NLP & Information Retrieval
+
+I enjoy combining research with engineering to build systems that are both academically rigorous and practically deployable.
 
 ---
 
 ## 🔬 Current Research
 
-Working on:
-**Multimodal Self-Supervised Learning for Smart-Home Human Activity Recognition**
+### Multimodal Self-Supervised Learning for Smart-Home Human Activity Recognition
 
-Using:
-- Transformers
-- Graph Neural Networks
-- Contrastive Learning
-- Sensor Fusion
-- PyTorch Geometric
+Building an end-to-end multimodal AI pipeline using:
+
+* Transformers for sensor-event sequences
+* BERT-based natural language encoding
+* CNNs for spatial behavior maps
+* Graph Neural Networks (GPS Graph Transformer)
+* Contrastive Self-Supervised Learning
+* Multi-layout smart-home datasets
+
+### Research Focus Areas
+
+* Sensor Fusion
+* Contrastive Learning
+* Representation Learning
+* Graph Neural Networks
+* Smart-Home AI Systems
+* Multimodal Learning
+
+---
+
+## 💼 Industry Experience
+
+### Technical Intern — Stylabs Technologies
+
+Worked on production-scale web platforms using:
+
+* Vue2 / Vue3
+* Node.js & Express
+* MongoDB
+* REST APIs
+* Authentication Systems
+* Real-time Chat Features
+* Component Architecture
+
+Contributed to:
+
+* Marketplace platforms
+* Property management systems
+* Rental & sales platforms
+* Internal tooling and documentation
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+```text
+Python • JavaScript • Java • C • SQL
+```
+
+### Machine Learning / AI
+
+```text
+PyTorch • TensorFlow • HuggingFace Transformers • PyTorch Geometric
+```
+
+### Frontend
+
+```text
+React • Vue.js • Nuxt.js • Material UI • HTML • CSS
+```
+
+### Backend
+
+```text
+Node.js • Express • Flask • REST APIs
+```
+
+### Databases
+
+```text
+MongoDB • MySQL
+```
+
+### Systems / Tools
+
+```text
+Linux • Git • Ubuntu • Networking • Distributed Systems
+```
 
 ---
 
 ## 📌 Featured Projects
 
-### Resume Ranking System
-ML + NLP system for ranking resumes against job descriptions using Flask, React, and Machine Learning.
+### 🧠 Multimodal Human Activity Recognition
 
-### Smart Home HAR Research
-Multimodal AI pipeline combining:
-- Sensor events
-- NLP descriptions
-- Spatial maps
-- Graph Transformers
+A multimodal self-supervised learning framework for smart-home activity recognition using:
 
-### Distributed Key-Value Naming Service
-Java-based distributed hash table using consistent hashing and socket programming.
+* Sensor-event transformers
+* BERT language encoders
+* Spatial activation maps
+* Graph transformers
+* Contrastive pretraining
+
+---
+
+### 📄 Resume Ranking System Using ML & NLP
+
+Built an end-to-end resume ranking platform using:
+
+* Flask backend
+* React frontend
+* Machine Learning + NLP pipeline
+* Research paper publication
+
+Published in:
+**IJSREM — Resume Ranking System Using Machine Learning & NLP**
+
+---
+
+### 🌐 Distributed Key-Value Naming Service
+
+Implemented a Java-based distributed hash table featuring:
+
+* Consistent hashing
+* Dynamic node join/leave
+* Fault-tolerant lookup system
+* TCP socket communication
+* Distributed persistence
+
+---
+
+### 📡 DNS Forwarder with DoH Support
+
+Created a Python DNS forwarder supporting:
+
+* DNS-over-HTTPS
+* Domain blocking
+* Query logging
+* UDP forwarding
+* Network diagnostics
+
+---
+
+### 🏠 Property Management System
+
+Full-stack property management platform with:
+
+* React + Material UI frontend
+* Relational database design
+* REST APIs
+* Payment & maintenance workflows
+* Strong data integrity testing
+
+---
+
+## 📚 Academic Interests
+
+* Self-Supervised Learning
+* Human Activity Recognition
+* Distributed Computing
+* Deep Learning
+* Networking Systems
+* AI Infrastructure
+* Large Scale Systems
+* Federated Learning
+
+---
+
+## 🏆 Highlights
+
+* 🎓 MS Computer Science @ University of Georgia
+* 📄 Published ML/NLP research paper
+* 🧠 Built multimodal AI research systems
+* 💼 Industry experience in production web platforms
+* ⚙️ Strong background in distributed systems and networking
+* 🌍 Experience across ML, backend, frontend, and systems engineering
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: harman.singh@uga.edu
+* 📧 Email: [harman.singh@uga.edu](mailto:harman.singh@uga.edu)
+* 💼 LinkedIn: [www.linkedin.com/in/harmanuga](http://www.linkedin.com/in/harmanuga)
+* 🌐 GitHub: [https://github.com/mrhpsingh01](https://github.com/mrhpsingh01)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that combine:
+
+```text
+AI + Systems + Real-World Engineering
+```
+
+From smart-home AI research to distributed systems and full-stack production applications.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+</div>

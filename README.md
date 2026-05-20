@@ -13,6 +13,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/mrhpsingh01/mrhpsingh01/raw/main/resume/Harmanpreet_Singh_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harmanuga/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harman.singh@uga.edu)
 
 </div>
 ---
